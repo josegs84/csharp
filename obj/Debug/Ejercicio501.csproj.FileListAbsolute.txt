@@ -1,0 +1,9 @@
+C:\Users\JoseG\Documents\Visual Studio 2015\Projects\Tema5\Ejercicio501\Ejercicio501\bin\Debug\Ejercicio501.exe.config
+C:\Users\JoseG\Documents\Visual Studio 2015\Projects\Tema5\Ejercicio501\Ejercicio501\bin\Debug\Ejercicio501.exe
+C:\Users\JoseG\Documents\Visual Studio 2015\Projects\Tema5\Ejercicio501\Ejercicio501\bin\Debug\Ejercicio501.pdb
+C:\Users\JoseG\Documents\Visual Studio 2015\Projects\Tema5\Ejercicio501\Ejercicio501\obj\Debug\Ejercicio501.csprojResolveAssemblyReference.cache
+C:\Users\JoseG\Documents\Visual Studio 2015\Projects\Tema5\Ejercicio501\Ejercicio501\obj\Debug\Ejercicio501.Form1.resources
+C:\Users\JoseG\Documents\Visual Studio 2015\Projects\Tema5\Ejercicio501\Ejercicio501\obj\Debug\Ejercicio501.Properties.Resources.resources
+C:\Users\JoseG\Documents\Visual Studio 2015\Projects\Tema5\Ejercicio501\Ejercicio501\obj\Debug\Ejercicio501.csproj.GenerateResource.Cache
+C:\Users\JoseG\Documents\Visual Studio 2015\Projects\Tema5\Ejercicio501\Ejercicio501\obj\Debug\Ejercicio501.exe
+C:\Users\JoseG\Documents\Visual Studio 2015\Projects\Tema5\Ejercicio501\Ejercicio501\obj\Debug\Ejercicio501.pdb
